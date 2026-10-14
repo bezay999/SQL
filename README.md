@@ -23,5 +23,3 @@ The project READMEs list their query names and explain the results. To check all
 ```bash
 python3 check_all.py
 ```
-
-I kept these as independent case studies rather than one large database. That makes it easier to see the relationships, the question behind each query, and what I learned from it. My other practice portfolios are in [Python](https://github.com/bezay999/python-junior-portfolio) and [Java](https://github.com/bezay999/java-junior-portfolio).
